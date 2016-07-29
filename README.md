@@ -7,7 +7,7 @@ Copies the current epoch time to system clipboard.
 
 ## Usage
 
-`$ node-epoch` //Copies the current epoch time (in seconds) to clipboard.
+`$ node-epoch` Copies the current epoch time (in seconds) to clipboard.
 
-`$ node-epoch --ms` //Copies the current epoch time (in milliseconds) to clipboard.
+`$ node-epoch --ms` Copies the current epoch time (in milliseconds) to clipboard.
 
