@@ -1,6 +1,6 @@
 {
   "name": "node-epoch",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Gets the current time as an epoch timestamp. ",
   "main": "node-epoch.js",
   "bin": {
